@@ -26,6 +26,7 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -190,7 +191,7 @@ Publish the website in the LocalHost.
     </footer>
 </body>
 </html>
-
+```
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/4e3f3ecc-50d0-483f-8f5d-fb676ae579bc)
